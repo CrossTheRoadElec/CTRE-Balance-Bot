@@ -20,8 +20,11 @@ This is done through various control schemes, that you can look at [here](#contr
 
 ## How To Make One
 1. Assemble the hardware as shown in the **[Builders Guide](Documentation/)**.
-2. Ensure Phoenix 5.6.0.0 is installed and Phoenix NETMF 5.1.5.0 is referenced in the solution explorer, this is seen below.
+2. Ensure Phoenix 5.6.0.0 is installed and Phoenix NETMF 5.1.5.0 is referenced in the solution explorer.
+
 http://www.ctr-electronics.com/installer-archive
+
+This can be confirmed below...
 ![Assembly Version Reference](../gh-images/Screenshots/Assembly%20Version.png)
 
 3. Flash all hardware using Phoenix Lifeboat.
