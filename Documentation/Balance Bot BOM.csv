@@ -1,0 +1,46 @@
+,,,,,,,
+,,,,,,,
+Subteam,Part,Part Number,Quantity,,,Link,Details
+Drivetrain(pololu),30:1 37D metal gearmotor,2823,2,,,https://www.pololu.com/product/2823,
+,6mm D hub,1083,1,,,https://www.pololu.com/product/1083,2 - pack
+,6mm D hub (alt),RB-Sct-1045,2,,,https://www.robotshop.com/en/6mm-clamping-d-hub-tapped-0770-pattern.html?gclid=CjwKCAjwq57cBRBYEiwAdpx0vbIo_qTu2eed6e7HUBAwmFK2aJRP79AKos4-bIsfHSH_t3LICOZszhoCPQoQAvD_BwE,
+,Traction Tire,217-2859,1,,,https://www.vexrobotics.com/vexpro/motion/wheels-and-hubs/traction-wheels.html,2 - pack
+,,,,,,,
+Control System,Talon SRX,14-838288,2,,,http://www.ctr-electronics.com/talon-srx.html,
+,HERO Dev board,16-728279,1,,,http://www.ctr-electronics.com/hro.html,
+,Pigeon IMU,16-737785,1,,,http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html,
+,Display Module,16-688380,1,,,http://www.ctr-electronics.com/gadgeteer-display-module.html,Cable Included
+,CAN Connector,15-676778,1,,,http://www.ctr-electronics.com/can-connector-5-pack.html,
+,Ribbon Cable,14-886867,1,,,http://www.ctr-electronics.com/talon-srx-data-cable-4-pack.html,
+,Power Breakout PCB,17-806679,1,,,http://www.ctr-electronics.com/power-distribution-breakout.html,
+,Talon SRX Encoder Breakout Board,15-696679,2,,,http://www.ctr-electronics.com/talon-srx-encoder-breakout-board.html,
+,Battery,522-1009-ND,1,,,https://www.digikey.com/product-detail/en/b-b-battery/BP3-12-T1/522-1009-ND/653330,
+,Battery Charger,,1,,,https://www.amazon.com/Energizer-ENC2A-Battery-Charger-Maintainer/dp/B01GSI1S08/ref=sr_1_17?s=automotive&ie=UTF8&qid=1532645038&sr=1-17&keywords=lead+acid+battery+charger,
+,Velcro,,1,,,https://www.amazon.com/Monoprice-Hook-Loop-Fastening-0-75-inch/dp/B004AF9II6/ref=sr_1_15?ie=UTF8&qid=1533868705&sr=8-15&keywords=velcro,
+,Fuse holder,8110K4,1,,,https://www.mcmaster.com/#8110k4/=1dkxrrj,
+,Fuse,F4201-ND,1,,,https://www.digikey.com/product-detail/en/littelfuse-inc/0287020.PXCN/F4201-ND/2519821,Same fuse as PDP hardware kit
+,Black Anderson housing,17-808066,6,,,http://www.ctr-electronics.com/anderson-power-pole-44.html,Battery to Power & Motors to Talons
+,Red Anderson housing,17-808082,6,,,http://www.ctr-electronics.com/anderson-power-pole.html,Battery to Power & Motors to Talons
+,Yellow Anderson housing,17-808089,1,,,http://www.ctr-electronics.com/anderson-power-pole-46.html,CAN Diagnostic port
+,Green Anderson housing,17-808071,1,,,http://www.ctr-electronics.com/anderson-power-pole-45.html,CAN Diagnostic port
+,PP15 crimp,879-1332,6,,,http://www.ctr-electronics.com/anderson-power-pole-contact-42.html,Motor Power & CAN port
+,PP45 crimp,879-261G2,8,,,http://www.ctr-electronics.com/anderson-power-pole-contact-43.html,Talons & Battery & Power
+,12AWG silicon wire RED,15-838782,5,,,http://www.ctr-electronics.com/red-silicone-wire-12-awg.html,
+,12AWG silicon wire BLACK,15-838766,5,,,http://www.ctr-electronics.com/black-silcone-wire-12-awg.html,
+,Orange 20 awg furrle,15-705048,1,,,http://www.ctr-electronics.com/ferrule-20-awg.html,
+,White 18 awg furrle,15-704956,1,,,http://www.ctr-electronics.com/ferrule-18-awg.html,
+,USB A to mini male B,16-856566,1,,,http://www.ctr-electronics.com/usb-a-male-b-mini-cable.html,
+,USB A to A,16-856565,1,,,http://www.ctr-electronics.com/usb-a-male-cable.html,
+,,,,,,,
+Hardware,"4-40 .25""(1/4) legnth SH",92196A106,1,,,https://www.mcmaster.com/#92196a106/=1dlje7x,10 Total
+,"4-40 .5""(1/2) length SH",92196A110,1,,,https://www.mcmaster.com/#92196a110/=1dljeei,70 Total
+,4-40 nylock hex nut,91831A005,1,,,https://www.mcmaster.com/#91831a005/=1dljdbn,28 Total
+,#4 washer,92141A005,1,,,https://www.mcmaster.com/#92141a005/=1dlkrwv,30 Total
+,"8-32 1"" length",92196A199,1,,,https://www.mcmaster.com/#92196a199/=1dljfxc,4 Total
+,M3 6mm length SH,91502A102,1,,,https://www.mcmaster.com/#91502a102/=1dljgex,12 Total
+,,,,,,,
+Tools,#43 Drill,2901A217,1,,,https://www.mcmaster.com/#2901a217/=1dytp8s,
+,"1/8"" Drill",2901A115,1,,,https://www.mcmaster.com/#2901a115/=1dytt2i,
+,#25 Drill,2901A198,1,,,https://www.mcmaster.com/#2901a198/=1dytth4,
+,4-40 Tap,2522A665,1,,,https://www.mcmaster.com/#2522a665/=1dytw9t,
+,Locktite,1004A12,1,,,https://www.mcmaster.com/#1004a12/=1e2fvdl,
