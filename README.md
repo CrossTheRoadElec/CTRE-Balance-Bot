@@ -25,6 +25,7 @@ This is done through various control schemes, that you can look at [here](#contr
 http://www.ctr-electronics.com/installer-archive
 
 This can be confirmed below...
+
 ![Assembly Version Reference](../gh-images/Screenshots/Assembly%20Version.png)
 
 3. Flash all hardware using Phoenix Lifeboat.
